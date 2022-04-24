@@ -1,0 +1,4 @@
+from cadastro_imoveis.Imoveis import Imoveis
+from cadastro_imoveis.Alugueis import Alugueis
+from cadastro_imoveis.Proprietarios import Proprietarios
+from cadastro_imoveis.Inquilinos import Inquilinos
